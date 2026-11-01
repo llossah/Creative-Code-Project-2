@@ -1,0 +1,4 @@
+﻿Artist Statement
+
+
+Kente Rhythms is a generative artwork inspired by the geometric patterns and visual rhythms of Ghanaian Kente textiles. I used a repeating grid of 72 squares to establish a consistent structure, then introduced randomness in three ways: the selection of diamond or stripe motifs, the choice of color for each motif, and variations in motif size. The digital version regenerates its composition at regular intervals, allowing the pattern to change while the grid remains stable. For the printed version, I used the assigned Risograph colors: blue, fluorescent pink, yellow, and black, and generated a single fixed arrangement. The project explores how repetition and unpredictability can coexist, connecting my interest in Ghanaian visual culture with creative coding.
